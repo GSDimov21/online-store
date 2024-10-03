@@ -1,0 +1,14 @@
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\bin\Debug\net8.0\online-store.exe
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\bin\Debug\net8.0\online-store.deps.json
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\bin\Debug\net8.0\online-store.runtimeconfig.json
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\bin\Debug\net8.0\online-store.dll
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\bin\Debug\net8.0\online-store.pdb
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\online-store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\online-store.AssemblyInfoInputs.cache
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\online-store.AssemblyInfo.cs
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\online-store.csproj.CoreCompileInputs.cache
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\online-store.dll
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\refint\online-store.dll
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\online-store.pdb
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\online-store.genruntimeconfig.cache
+C:\Users\GSDimov21\RiderProjects\online-store\online-store\obj\Debug\net8.0\ref\online-store.dll
